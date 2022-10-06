@@ -43,8 +43,8 @@ the coordinates of the point and the radius of the area.
 - A link to a page with a web form for generating a new request.
 - The developed web application must be deployed on the WildFly server . The server must be running in a standalone configuration, ports must be configured in accordance with the given portbase, access to the http listener must be open to all IPs.
 
-**Result**
+**Result**/
 <img src="https://github.com/andrey551/lab2Web/blob/main/resources/result.png" style="width:700px;"/>
 
 **Conclusion:** 
--In this laboratory work, I has learn many new, about Java servlets, JSP, and how to setup/config a servlet project, also using wildfly server, how to deploy my web on wildfly, last but not least, I learnt MVC templates, and JSP beans, HTTP Session 
+In this laboratory work, I has learn many new, about Java servlets, JSP, and how to setup/config a servlet project, also using wildfly server, how to deploy my web on wildfly, last but not least, I learnt MVC templates, and JSP beans, HTTP Session 

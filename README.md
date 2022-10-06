@@ -35,6 +35,7 @@ the coordinates of the point and the radius of the area.
 - Otherwise, after clicking on the picture, a message should be displayed about the impossibility of determining the coordinates of the point.
 - After checking whether the point is in the area, the image must be updated with the results of this check (i.e., a new point must appear on it).
 - Table with the results of previous checks. The list of results must be taken from the application context, HTTP session, or bean, as appropriate.
+
 **The page returned by AreaCheckServlet must contain:**
 
 - A table containing the received parameters.
